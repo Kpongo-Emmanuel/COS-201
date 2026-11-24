@@ -10,7 +10,7 @@ public class PrimeForLoop {
                 }
             }
             if (Prime) {
-                System.out.println(i + "");
+                System.out.println(i);
             }
 
         }
